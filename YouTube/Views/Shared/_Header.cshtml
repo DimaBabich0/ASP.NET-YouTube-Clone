@@ -1,0 +1,80 @@
+﻿@{
+    var resizedLogoWidth = 950;
+    var isResized = false; // Это можно обновлять через JS
+}
+
+<header class="header">
+    @* logo *@
+    <div class="section left">
+        <a href="/">
+            <img class="logo" src="~/images/header-images/logo.svg" alt="Logo" />
+        </a>
+    </div>
+
+    @* seachbar *@
+    <div class="section middle">
+        @* for mobile *@
+        <div class="minimize-body" onclick="handleForwardClick()">
+            <img src="~/images/header-images/forward.svg" alt="Video" class="minimize-icon" />
+        </div>
+
+        @* for computer *@
+        <div class="input-container">
+            <img class="icon-search" src="~/images/header-images/search.svg" alt="Search" />
+            <input class="input-search" type="text" name="search" placeholder="Search" />
+        </div>
+
+        <img class="icon-mic" src="~/images/header-images/mic.svg" alt="Mic" />
+    </div>
+
+    @* profile menu *@
+    <div class="section right">
+        @* for mobile open searchbar*@
+        <img src="~/images/header-images/search.svg" class="toggle-search" alt="Search" onclick="toggleSections()" />
+        
+        @* add video logo *@
+        <img src="~/images/header-images/add-video.svg" alt="Video" />
+        
+        @* notifications *@
+        <img src="~/images/header-images/notification-alarm-bell_svgrepo.com.svg" alt="Bell" />
+        
+        @* dropdown menu for user *@
+        <div class="dropdown">
+            <img src="~/images/header-images/acc.svg" alt="Profile" onclick="toggleDropdown()" />
+            <div class="dropdown-content" id="dropdownMenu">
+                <div class="section profile">
+                    <img src="~/images/header-images/acc.svg" alt="Profile" />
+                    <div>
+                        <h1 class="channel-name">LiLia Hmel</h1>
+                        <p class="user-name">kltrons</p>
+                    </div>
+                </div>
+
+                @* options *@
+                <div class="section">
+                    @* <a href="/channel" class="dropdown-item"> *@
+                    @*     <img src="~/images/header-images/dropdown-profile/person.svg" alt="Your channel" /> *@
+                    @*     <p>Your channel</p> *@
+                    @* </a> *@
+
+                    @* <a href="/sign-in" class="dropdown-item"> *@
+                    @*     <img src="~/images/header-images/dropdown-profile/supervisor_account.svg" alt="Switch account" /> *@
+                    @*     <p>Switch account</p> *@
+                    @*     <img class="arrow" src="~/images/header-images/arrow_forward_ios.svg" alt="Arrow" /> *@
+                    @* </a> *@
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="header-spacer"></div>
+
+<script>
+    function toggleDropdown() {
+        document.getElementById("dropdownMenu").classList.toggle("show");
+    }
+    function toggleSections() {
+        let middleSection = document.querySelector('.section.middle');
+        middleSection.classList.toggle('resize');
+    }
+</script>

@@ -1,0 +1,601 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\YouTube.bundle.scp.css",
+      "PackagePath": "staticwebassets\\YouTube.sgc6lmiqdr.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\css\\Header.css",
+      "PackagePath": "staticwebassets\\css\\Header.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\Comment\\1.png",
+      "PackagePath": "staticwebassets\\images\\Comment\\1.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\Comment\\2.png",
+      "PackagePath": "staticwebassets\\images\\Comment\\2.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\Comment\\3.png",
+      "PackagePath": "staticwebassets\\images\\Comment\\3.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\Comment\\4.png",
+      "PackagePath": "staticwebassets\\images\\Comment\\4.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\Comment\\5.png",
+      "PackagePath": "staticwebassets\\images\\Comment\\5.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\banner.svg",
+      "PackagePath": "staticwebassets\\images\\banner.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\banner1.png",
+      "PackagePath": "staticwebassets\\images\\banner1.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\expand_more.svg",
+      "PackagePath": "staticwebassets\\images\\expand_more.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\acc.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\acc.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\add-video.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\add-video.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\arrow_forward_ios.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\arrow_forward_ios.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\admin.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\admin.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\brightness.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\brightness.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\domino_mask.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\domino_mask.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\feedback.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\feedback.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\help.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\help.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\language.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\language.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\person.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\person.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\settings.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\settings.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\supervisor_account.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\supervisor_account.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\themes.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\themes.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\dropdown-profile\\translate.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\dropdown-profile\\translate.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\forward.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\forward.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\logo-mobile.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\logo-mobile.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\logo.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\mic.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\mic.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\notification-alarm-bell_svgrepo.com.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\notification-alarm-bell_svgrepo.com.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\header-images\\search.svg",
+      "PackagePath": "staticwebassets\\images\\header-images\\search.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\add.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\add.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\arrow_back_ios_new.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow_back_ios_new.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\bar_chart.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\bar_chart.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\categories.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\categories.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\done.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\done.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\feedback.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\feedback.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\heart.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\heart.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\help.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\help.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\history.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\history.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\home.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\home.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\libra.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\libra.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\playlists.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\playlists.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\playme.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\playme.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\report.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\report.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\settings.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\settings.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\streams.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\streams.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\icons\\sub.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\sub.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\previews\\p2.png",
+      "PackagePath": "staticwebassets\\images\\previews\\p2.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\previews\\t1.png",
+      "PackagePath": "staticwebassets\\images\\previews\\t1.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\previews\\t2.png",
+      "PackagePath": "staticwebassets\\images\\previews\\t2.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\previews\\t3.png",
+      "PackagePath": "staticwebassets\\images\\previews\\t3.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\previews\\t4.png",
+      "PackagePath": "staticwebassets\\images\\previews\\t4.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\creepcast.png",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\creepcast.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\enleo.png",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\enleo.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\eve.png",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\eve.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\kopiyka.png",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\kopiyka.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\nexpo.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\nexpo.jpg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\nick-crowley.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\nick-crowley.jpg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\nikolay-chaze.png",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\nikolay-chaze.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\profile-pictures\\rob-scallon.png",
+      "PackagePath": "staticwebassets\\images\\profile-pictures\\rob-scallon.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto1.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto1.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto2.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto2.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto3.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto3.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto4.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto4.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto5.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto5.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto6.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto6.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\SignPhoto7.png",
+      "PackagePath": "staticwebassets\\images\\sign-page\\SignPhoto7.png"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\icon-apple.svg",
+      "PackagePath": "staticwebassets\\images\\sign-page\\icon-apple.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\icon-facebook.svg",
+      "PackagePath": "staticwebassets\\images\\sign-page\\icon-facebook.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\icon-google.svg",
+      "PackagePath": "staticwebassets\\images\\sign-page\\icon-google.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\icon-twitter.svg",
+      "PackagePath": "staticwebassets\\images\\sign-page\\icon-twitter.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\sign-page\\icon_arrow_insert.svg",
+      "PackagePath": "staticwebassets\\images\\sign-page\\icon_arrow_insert.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\fullscreen.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\fullscreen.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\none-stroke.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\none-stroke.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\pause_circle.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\pause_circle.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\play_arrow.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\play_arrow.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\play_circle.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\play_circle.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\primary-stroke.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\primary-stroke.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\setting.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\setting.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\skip_next.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\skip_next.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\skip_previous.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\skip_previous.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\subtitles.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\subtitles.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\images\\video-player\\volume-stroke.svg",
+      "PackagePath": "staticwebassets\\images\\video-player\\volume-stroke.svg"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ВУЗ\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.YouTube.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.YouTube.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.YouTube.props",
+      "PackagePath": "build\\YouTube.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.YouTube.props",
+      "PackagePath": "buildMultiTargeting\\YouTube.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.YouTube.props",
+      "PackagePath": "buildTransitive\\YouTube.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
