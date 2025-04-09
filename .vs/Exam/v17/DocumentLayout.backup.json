@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework_asp.net\\exam\\youtube\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|solutionrelative:youtube\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework_asp.net\\exam\\youtube\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|solutionrelative:youtube\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework_asp.net\\exam\\youtube\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|solutionrelative:youtube\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework_asp.net\\exam\\youtube\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C8F27FA-3AFC-43F9-A6B3-8A08D42E0E48}|YouTube\\YouTube.csproj|solutionrelative:youtube\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{82205954-17E3-42B0-946F-CC8499412C4D}|YouTube.DAL\\YouTube.DAL.csproj|d:\\\u0432\u0443\u0437\\.net c#\\homework_asp.net\\exam\\youtube.dal\\ef\\youtubecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82205954-17E3-42B0-946F-CC8499412C4D}|YouTube.DAL\\YouTube.DAL.csproj|solutionrelative:youtube.dal\\ef\\youtubecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,52 +83,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "YouTube\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "YouTube\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T13:29:52.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "YouTube\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "YouTube\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T11:12:50.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "YouTube\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "YouTube\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T11:03:58.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "YouTube\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "YouTube\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T10:43:21.877Z",
+              "Title": "YouTubeContext.cs",
+              "DocumentMoniker": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube.DAL\\EF\\YouTubeContext.cs",
+              "RelativeDocumentMoniker": "YouTube.DAL\\EF\\YouTubeContext.cs",
+              "ToolTip": "D:\\\u0412\u0423\u0417\\.NET C#\\Homework_ASP.NET\\Exam\\YouTube.DAL\\EF\\YouTubeContext.cs",
+              "RelativeToolTip": "YouTube.DAL\\EF\\YouTubeContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:05:30.723Z",
               "EditorCaption": ""
             }
           ]
